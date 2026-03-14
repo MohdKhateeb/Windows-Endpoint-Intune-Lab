@@ -1,2 +1,2 @@
-# Intune-Home-Lab
-Lab architecture diagram Autopilot deployment steps Device compliance policies BitLocker configuration Defender policies
+Enterprise-style Microsoft Intune & Windows Endpoint Management lab from Zero to Hero.
+Includes device enrollment, configuration, security baselines, Autopilot, automation, and troubleshooting scenarios aligned with real enterprise environments and MD-102 skills.
