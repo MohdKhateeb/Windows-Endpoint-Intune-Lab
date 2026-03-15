@@ -38,9 +38,9 @@ Entra Admin Center
 - Licenses assigned page
 
 See screenshots in the `/screenshots` folder.
-![Entra Tenant Overview](../screenshots/phase-0/entra-overview.png)
+![Entra Tenant Overview](../screenshots/phase-0/Entra%20ID%20Overview%20page.jpg)
 
-![License Verification](../screenshots/phase-0/license-verification.png)
+![Licenses Assigned Page](../screenshots/phase-0/Licenses%20assigned%20page.jpg)
 
 ---
 
