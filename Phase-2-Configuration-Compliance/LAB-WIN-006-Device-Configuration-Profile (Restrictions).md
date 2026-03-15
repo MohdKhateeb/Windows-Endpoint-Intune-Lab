@@ -1,3 +1,5 @@
+# LAB-WIN-006 – Device Configuration Profile (Restrictions)
+
 ## Objective
  
 Apply device configuration settings such as password policies and system restrictions using Microsoft Intune.
