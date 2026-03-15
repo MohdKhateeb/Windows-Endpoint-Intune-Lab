@@ -32,12 +32,12 @@ Entra Admin Center
 
 ---
 
-## Screenshots to Capture
+## Captured Screenshots 
 
 - Entra ID Overview page
 - Licenses assigned page
 
-Save screenshots in the `/screenshots` folder.
+See screenshots in the `/screenshots` folder.
 
 ---
 
