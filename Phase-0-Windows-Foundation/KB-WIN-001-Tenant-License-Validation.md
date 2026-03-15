@@ -1,4 +1,4 @@
-# KB-WIN-001 – Tenant & License Validation
+# LAB-WIN-001 – Tenant & License Validation
 
 ## Objective
 
