@@ -1,0 +1,61 @@
+# LAB-WIN-014 — Microsoft Defender Antivirus Policy
+ 
+## Objective
+ 
+Configure Microsoft Defender Antivirus using Intune Endpoint Security.
+ 
+---
+ 
+## Navigation Path
+ 
+Intune Admin Center  
+Endpoint security → Antivirus
+ 
+---
+ 
+## Step-by-Step
+ 
+1. Open Intune Admin Center
+ 
+2. Navigate to:
+ 
+Endpoint security → Antivirus
+ 
+3. Create policy
+ 
+4. Configure:
+ 
+Real-time protection → Enabled  
+Cloud-delivered protection → Enabled
+ 
+5. Assign to:
+ 
+INT-WIN-Enrolled-Devices
+ 
+---
+ 
+## Captured Screenshots
+ 
+Defender antivirus policy  
+Device protection status
+ 
+---
+ 
+## Common Issues
+ 
+Defender in passive mode due to third-party antivirus.
+ 
+Incorrect policy assignments.
+ 
+---
+ 
+## Exam Relevance
+ 
+Microsoft Defender management is a key MD-102 topic.
+ 
+---
+ 
+## Real-World Usage
+ 
+Defender provides baseline malware protection for enterprise Windows endpoints.
+ 
